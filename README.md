@@ -91,8 +91,13 @@ drawings: This folder contains for each context in data a drawing generated as g
 
 
 [1] Ganter, B., Wille, R.: Formal Concept Analysis: Mathematical Foundations
+
 [2] Ganter, B.: Diskrete Mathematik: Geordnete Mengen
+
 [3] Stumme, G., Wille, R.: A geometrical heuristic for drawing concept lattices
+
 [4] Ganter, B.: Conflict Avoidance in Additive Order Diagrams
+
 [5] Glodeanu, C.V., Ganter, B.: Applications of Ordinal Factor Analysis
+
 [6] https://archive.ics.uci.edu/ml/datasets/mushroom
